@@ -1,1 +1,2 @@
 qdugui - https://github.com/ShadowFlash900/QDUGUI
+intlib - https://github.com/ShadowFlash900/interiumLIB
